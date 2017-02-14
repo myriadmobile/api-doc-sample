@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-aglio": "0.0.10",
+    "gulp-rename": "^1.2.2",
+    "gulp-server-livereload": "^1.9.2"
+  }
+}
